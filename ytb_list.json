@@ -1,4 +1,91 @@
 {
-  "PLUg6CGAXr7pmKgOpLgeFGw2urpMt-PPOt": "西游记",
-  "PL8tBpa_is0yzev6HCjaMx4mYilyeiU8pa": "妈妈像花儿一样"
+ "kind": "youtube#playlistListResponse",
+ "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ie5uHywvYx9xeJEQ-eW4JY9uZvs\"",
+ "pageInfo": {
+  "totalResults": 2,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/eHffXKBWdes3UQrXpFRNhrDNcCo\"",
+   "id": "PLQQQX8hVUAyegez9Y--1nr4oa8Tw1OAXS",
+   "snippet": {
+    "publishedAt": "2016-04-27T09:04:08.000Z",
+    "channelId": "UCgftIyfY4nNSGek3tXe76CA",
+    "title": "央视水浒传",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4JbcNix6n2Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4JbcNix6n2Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4JbcNix6n2Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4JbcNix6n2Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Seow Kuen",
+    "localized": {
+     "title": "央视水浒传",
+     "description": ""
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4Q24cIfNpad-_KS9OE5jGkYP1u8\"",
+   "id": "PLUg6CGAXr7pmKgOpLgeFGw2urpMt-PPOt",
+   "snippet": {
+    "publishedAt": "2015-07-02T08:00:03.000Z",
+    "channelId": "UCKn4SloJmZYNYNq6RgzgrHw",
+    "title": "86版《西游记》Journey to the West【全28集1080P】",
+    "description": "该电视剧称央视版《西游记》或86版《西游记》，改编自明代小说家吴承恩同名文学古典名著。是由中国国际电视总公司出品的一部41集古装神话剧。由杨洁执导，戴英禄，杨洁，邹忆青共同编剧，六小龄童、徐少华、迟重瑞、汪粤、马德华、崔景富、闫怀礼、刘大刚等主演。",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/twlIPYb12qo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/twlIPYb12qo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/twlIPYb12qo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/twlIPYb12qo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/twlIPYb12qo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "华语热播影视剧大本营——《冰与火的青春》同步湖南卫视播出",
+    "localized": {
+     "title": "86版《西游记》Journey to the West【全28集1080P】",
+     "description": "该电视剧称央视版《西游记》或86版《西游记》，改编自明代小说家吴承恩同名文学古典名著。是由中国国际电视总公司出品的一部41集古装神话剧。由杨洁执导，戴英禄，杨洁，邹忆青共同编剧，六小龄童、徐少华、迟重瑞、汪粤、马德华、崔景富、闫怀礼、刘大刚等主演。"
+    }
+   }
+  }
+ ]
 }
