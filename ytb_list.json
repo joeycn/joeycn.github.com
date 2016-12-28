@@ -162,6 +162,44 @@
     }
    }
   },
+  {
+   "kind": "youtube#playlist",
+   "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/GS-K7HjjIc09kSanuMeFarbLynQ\"",
+   "id": "PLZEt6qwYRqKeb6rpq9qg6xz9_n4ZJpKiO",
+   "snippet": {
+    "publishedAt": "2013-04-10T03:39:08.000Z",
+    "channelId": "UCs2zf_IgBo684WQ-e3h9ugg",
+    "title": "新白娘子传奇(字幕版) The Legend of White Snake subs",
+    "description": "新白娘子传奇（本剧集共50集）\r\n特别上传附有中英文字幕\r\n点击视频右下角CC菜单\r\n可以自由选择英文和中文字幕\r\n谢谢观赏\r\n\r\nThe Legend of White Snake（50 episodes）\r\nWith English and Chinese subtitles\r\nClick the CC button at the right corner of the video\r\nFree to choose English or Chinese subtitles\r\nEnjoy!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DKzb7ISclt0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DKzb7ISclt0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DKzb7ISclt0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DKzb7ISclt0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "JY J",
+    "localized": {
+     "title": "新白娘子传奇(字幕版) The Legend of White Snake subs",
+     "description": "新白娘子传奇（本剧集共50集）\r\n特别上传附有中英文字幕\r\n点击视频右下角CC菜单\r\n可以自由选择英文和中文字幕\r\n谢谢观赏\r\n\r\nThe Legend of White Snake（50 episodes）\r\nWith English and Chinese subtitles\r\nClick the CC button at the right corner of the video\r\nFree to choose English or Chinese subtitles\r\nEnjoy!"
+    }
+   }
+  },
    {
    "kind": "youtube#playlist",
    "etag": "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/5nhHddAfNIFUsJXsc1KD7JfY-LE\"",
